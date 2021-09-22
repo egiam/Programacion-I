@@ -1,0 +1,7 @@
+D:\UTN\Carrera\Programacion I\Unidad 4\AppBiblioteca\AppBiblioteca\obj\Debug\AppBiblioteca.csprojAssemblyReference.cache
+D:\UTN\Carrera\Programacion I\Unidad 4\AppBiblioteca\AppBiblioteca\obj\Debug\AppBiblioteca.frmBiblioteca.resources
+D:\UTN\Carrera\Programacion I\Unidad 4\AppBiblioteca\AppBiblioteca\obj\Debug\AppBiblioteca.frmLibros.resources
+D:\UTN\Carrera\Programacion I\Unidad 4\AppBiblioteca\AppBiblioteca\obj\Debug\AppBiblioteca.frmSalir.resources
+D:\UTN\Carrera\Programacion I\Unidad 4\AppBiblioteca\AppBiblioteca\obj\Debug\AppBiblioteca.Properties.Resources.resources
+D:\UTN\Carrera\Programacion I\Unidad 4\AppBiblioteca\AppBiblioteca\obj\Debug\AppBiblioteca.csproj.GenerateResource.cache
+D:\UTN\Carrera\Programacion I\Unidad 4\AppBiblioteca\AppBiblioteca\obj\Debug\AppBiblioteca.csproj.CoreCompileInputs.cache
