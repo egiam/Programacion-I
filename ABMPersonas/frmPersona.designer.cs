@@ -49,7 +49,6 @@
             this.btnGrabar = new System.Windows.Forms.Button();
             this.btnCancelar = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
-            this.btnImprimir = new System.Windows.Forms.Button();
             this.grdPersonas = new System.Windows.Forms.DataGridView();
             this.cApellido = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.cNombres = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -253,17 +252,10 @@
             this.btnSalir.UseVisualStyleBackColor = true;
             this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
-            // btnImprimir
-            // 
-            this.btnImprimir.Location = new System.Drawing.Point(569, 330);
-            this.btnImprimir.Name = "btnImprimir";
-            this.btnImprimir.Size = new System.Drawing.Size(75, 23);
-            this.btnImprimir.TabIndex = 21;
-            this.btnImprimir.Text = "Imprimir";
-            this.btnImprimir.UseVisualStyleBackColor = true;
-            // 
             // grdPersonas
             // 
+            this.grdPersonas.BackgroundColor = System.Drawing.SystemColors.Control;
+            this.grdPersonas.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.grdPersonas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.grdPersonas.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.cApellido,
@@ -272,8 +264,11 @@
             this.cDocumento});
             this.grdPersonas.Location = new System.Drawing.Point(557, 26);
             this.grdPersonas.Name = "grdPersonas";
-            this.grdPersonas.Size = new System.Drawing.Size(336, 277);
+            this.grdPersonas.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.grdPersonas.Size = new System.Drawing.Size(463, 277);
             this.grdPersonas.TabIndex = 22;
+            this.grdPersonas.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.grdPersonas_CellContentClick);
+            this.grdPersonas.SelectionChanged += new System.EventHandler(this.grdPersonas_SelectionChanged);
             // 
             // cApellido
             // 
@@ -284,11 +279,13 @@
             // 
             this.cNombres.HeaderText = "Nombres";
             this.cNombres.Name = "cNombres";
+            this.cNombres.Width = 150;
             // 
             // cTipo
             // 
             this.cTipo.HeaderText = "Tipo Doc.";
             this.cTipo.Name = "cTipo";
+            this.cTipo.Width = 70;
             // 
             // cDocumento
             // 
@@ -299,9 +296,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(905, 367);
+            this.ClientSize = new System.Drawing.Size(1035, 369);
             this.Controls.Add(this.grdPersonas);
-            this.Controls.Add(this.btnImprimir);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnGrabar);
@@ -355,7 +351,6 @@
         private System.Windows.Forms.Button btnGrabar;
         private System.Windows.Forms.Button btnCancelar;
         private System.Windows.Forms.Button btnSalir;
-        private System.Windows.Forms.Button btnImprimir;
         private System.Windows.Forms.DataGridView grdPersonas;
         private System.Windows.Forms.DataGridViewTextBoxColumn cApellido;
         private System.Windows.Forms.DataGridViewTextBoxColumn cNombres;

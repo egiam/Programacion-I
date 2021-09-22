@@ -6,7 +6,8 @@ using System.Text;
 namespace ABMPersonas
 {
     class Persona
-    {
+    {     
+
         private string apellido, nombres;
         private int tipoDocumento, documento, estadoCivil, sexo;
         private bool fallecio;
