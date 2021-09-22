@@ -1,0 +1,30 @@
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Vinos\bin\Debug\TUP_PI_Parcial2_Vinos.exe.config
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Vinos\bin\Debug\TUP_PI_Parcial2_Vinos.exe
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Vinos\bin\Debug\TUP_PI_Parcial2_Vinos.pdb
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Vinos\obj\Debug\TUP_PI_Parcial2_Vinos.csprojAssemblyReference.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Vinos\obj\Debug\TUP_PI_Parcial2_Vinos.frmVinos.resources
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Vinos\obj\Debug\TUP_PI_Parcial2_Vinos.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Vinos\obj\Debug\TUP_PI_Parcial2_Vinos.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Vinos\obj\Debug\TUP_PI_Parcial2_Vinos.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Vinos\obj\Debug\TUP_PI_Parcial2_Vinos.exe
+D:\Oscar\UTN\ProgramacionI\2021\1Cuatrimestre\Parcial2\TUP_PI_Parcial2_Vinos\obj\Debug\TUP_PI_Parcial2_Vinos.pdb
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos\bin\Debug\TUP_PI_Parcial2_Vinos.exe.config
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos\bin\Debug\TUP_PI_Parcial2_Vinos.exe
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos\bin\Debug\TUP_PI_Parcial2_Vinos.pdb
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos\obj\Debug\TUP_PI_Parcial2_Vinos.csprojAssemblyReference.cache
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos\obj\Debug\TUP_PI_Parcial2_Vinos.frmVinos.resources
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos\obj\Debug\TUP_PI_Parcial2_Vinos.Properties.Resources.resources
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos\obj\Debug\TUP_PI_Parcial2_Vinos.csproj.GenerateResource.cache
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos\obj\Debug\TUP_PI_Parcial2_Vinos.csproj.CoreCompileInputs.cache
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos\obj\Debug\TUP_PI_Parcial2_Vinos.exe
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos\obj\Debug\TUP_PI_Parcial2_Vinos.pdb
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos - 1W1 - 112658 - Giampaoli, Ezequiel Maximiliano\bin\Debug\TUP_PI_Parcial2_Vinos.exe.config
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos - 1W1 - 112658 - Giampaoli, Ezequiel Maximiliano\bin\Debug\TUP_PI_Parcial2_Vinos.exe
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos - 1W1 - 112658 - Giampaoli, Ezequiel Maximiliano\bin\Debug\TUP_PI_Parcial2_Vinos.pdb
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos - 1W1 - 112658 - Giampaoli, Ezequiel Maximiliano\obj\Debug\TUP_PI_Parcial2_Vinos.csprojAssemblyReference.cache
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos - 1W1 - 112658 - Giampaoli, Ezequiel Maximiliano\obj\Debug\TUP_PI_Parcial2_Vinos.frmVinos.resources
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos - 1W1 - 112658 - Giampaoli, Ezequiel Maximiliano\obj\Debug\TUP_PI_Parcial2_Vinos.Properties.Resources.resources
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos - 1W1 - 112658 - Giampaoli, Ezequiel Maximiliano\obj\Debug\TUP_PI_Parcial2_Vinos.csproj.GenerateResource.cache
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos - 1W1 - 112658 - Giampaoli, Ezequiel Maximiliano\obj\Debug\TUP_PI_Parcial2_Vinos.csproj.CoreCompileInputs.cache
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos - 1W1 - 112658 - Giampaoli, Ezequiel Maximiliano\obj\Debug\TUP_PI_Parcial2_Vinos.exe
+D:\UTN\Carrera\Programacion I\Programacion para Segundo parcial\TUP_PI_Parcial2_Vinos - 1W1 - 112658 - Giampaoli, Ezequiel Maximiliano\obj\Debug\TUP_PI_Parcial2_Vinos.pdb
